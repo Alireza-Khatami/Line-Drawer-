@@ -1,0 +1,13 @@
+﻿  Source2.cpp
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(14,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(14,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(14,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(16,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(16,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(23,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(23,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(56,16): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(61,16): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(66,16): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\Source2.cpp(71,16): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project1.vcxproj -> L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_1 - Copy\x64\Debug\Project1.exe
